@@ -6,7 +6,9 @@ if counter < array.length
 counter+=1
 elsif array.size == 2
     array.join(" and ")
-    
+    else array.size >= 3
+    array.join(", ")
+    array.last.join(" and "
     
   end
   hello
