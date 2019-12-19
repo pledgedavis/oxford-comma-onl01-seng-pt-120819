@@ -3,10 +3,7 @@ def oxford_comma(array)
 end
   
   def oxford_comma
-
-["hello","goodbye"]
-
-
+["hello","goodbye"].to_sentence
 end
 
 
