@@ -1,7 +1,7 @@
 def oxford_comma(array)
 counter = 0
 hello =""
-while counter < array.length do
+if counter < array.length do
    hello << array[counter]
 counter+=1
   end
