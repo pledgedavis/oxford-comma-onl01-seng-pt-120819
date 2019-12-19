@@ -4,8 +4,6 @@ def oxford_comma(array)
 while counter < array.length 
    hello << array[counter]
 counter+=1
-
-   
   end 
   hello
 end
