@@ -5,6 +5,7 @@ while counter < array.length do
    hello << array[counter]
 counter+=1
   end
+  hello
 end
 
 
