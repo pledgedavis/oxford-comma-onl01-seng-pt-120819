@@ -1,11 +1,12 @@
 def oxford_comma(array)
 counter = 0
+hello =""
 while counter < array.length do
-   "" << array
+   hello << array[counter]
 
 
 
-
+counter+=1
   end
 end
 
