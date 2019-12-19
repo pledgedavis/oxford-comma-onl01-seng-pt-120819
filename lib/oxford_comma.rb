@@ -9,7 +9,7 @@ elsif array.size == 2
     else array.size >= 3
     array.join(", ")
     array.last.join(" and "
-    
+   end
   end
   hello
 end
