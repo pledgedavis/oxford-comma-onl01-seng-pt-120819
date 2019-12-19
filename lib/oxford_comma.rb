@@ -10,7 +10,6 @@ elsif array.size == 2
     array.join(", ")
     array.last.join(" and ")
    end
- end
   hello
 end
 
