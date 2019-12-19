@@ -4,6 +4,9 @@ hello =""
 if counter < array.length 
    hello << array[counter]
 counter+=1
+else counter
+  
+  
   end
   hello
 end
