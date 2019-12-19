@@ -4,7 +4,7 @@ def oxford_comma(array)
 if counter < array.length 
    hello << array[counter]
 counter+=1
-  elsif array.length == 2 
+  elsif array.length
    
   end 
   hello
