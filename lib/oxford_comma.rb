@@ -4,9 +4,9 @@ hello =""
 if counter < array.length 
    hello << array[counter]
 counter+=1
-elsif 
-  
-  
+elsif array.size == 2
+    array.join(" and ")
+    
   end
   hello
 end
