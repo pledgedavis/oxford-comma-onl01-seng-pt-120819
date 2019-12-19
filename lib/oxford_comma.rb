@@ -8,9 +8,9 @@ elsif array.size == 2
     array.join(" and ")
     else array.size >= 3
     array.join(", ")
-    array.last.join(" and "
+    array.last.join(" and ")
    end
-  end
+ end
   hello
 end
 
